@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Samuel Osoro</h1>
-<h3 align="center">A passionate Backend Developer and ALX Software Engineering Learner</h3>
+<h1 align="center">Hi 👋, I'm Samuel Mabuka</h1>
+<h3 align="center">Back-End Systems'
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samuelosoro&label=Profile%20views&color=0e75b6&style=flat" alt="samuelosoro" />
@@ -25,7 +25,7 @@
 
 ### Stack
 ```bash
-Languages: Python | JavaScript | Bash | C
+Languages: Python
 Backend: Flask
 Databases: MySQL | PostgreSQL
 Tools: Git | Linux
