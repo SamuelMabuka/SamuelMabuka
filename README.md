@@ -9,30 +9,24 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
-🎓 I’m currently a learner in the **ALX Software Engineering Program**, where I’m sharpening my skills in systems programming, backend development, and scalable infrastructure.  
-🌱 I started software engineering because I was fascinated by how code can solve real-world problems and automate processes at scale.  
-🔥 I'm passionate about building reliable backend systems, automating data processing, and using code to improve lives.  
-🚀 I'm inspired by open-source culture, community-driven learning, and the challenge of turning complex logic into elegant solutions.  
-🎯 My aim is to become a world-class backend engineer, contribute to meaningful projects, and work with mission-driven tech teams.
+- I’m currently at ALX, where I’m upskilling my skills in backend development, to build building reliable backend systems, and automating data processing. My objective is to refresh my skills using DJANGO framework. 
 
 ---
 
-### 💻 Projects I Love to Build
+### Interests 
 
-I’d love to work on:
-- 🔧 **RESTful APIs** and **microservices** for social and productivity platforms
-- 🧠 **Automation tools** for data analysis, DevOps, and backend workflows
-- 🌍 **Scalable systems** that serve users across diverse geographies
+- **RESTful APIs**
+- **Automation tools**
+- **Scalable systems** 
 
 ---
 
-### 🛠️ Tech Stack
-
+### Stack
 ```bash
 Languages: Python | JavaScript | Bash | C
-Backend: Node.js | Express | Flask
-Databases: MySQL | MongoDB | PostgreSQL
-Tools: Docker | Git | Postman | Linux
-Others: REST APIs | CI/CD | GitHub Actions
+Backend: Flask
+Databases: MySQL | PostgreSQL
+Tools: Git | Linux
+Others: REST APIs | CI/CD | Data engineering
