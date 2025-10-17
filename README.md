@@ -18,7 +18,23 @@ My work focuses on designing **data-driven backend architectures** that connect 
 **Frameworks:** Django ·
 **Databases:** MySQL · PostgreSQL  
 **Tools:** Git · Linux · CI/CD  
-**Other Skills:** REST API Design · Data Engineering · Airflow · Spark · Kafka · AWS · Azure  
+**Skills:** REST API Design · Data Engineering · Airflow · Spark · Kafka · AWS · Azure  
+
+
+### 🏆 Acquired Skills & Knowledge  
+- SQL (basic to advanced)  
+- Python for data engineering  
+- Data modeling (normalization, star schemas)  
+- ETL and ELT pipeline development  
+- Data warehousing with Amazon Redshift and Snowflake  
+- Real-time data streaming with Apache Kafka  
+- Batch and stream processing with Apache Spark and Flink  
+- Workflow orchestration with Apache Airflow  
+- Data governance and compliance (GDPR, HIPAA)  
+- Data security and access control  
+- Machine learning integration in data pipelines  
+- Big data processing with PySpark  
+- Lakehouse architecture using Delta Lake  
 
 ---
 
