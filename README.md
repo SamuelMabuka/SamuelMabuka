@@ -1,32 +1,28 @@
-<!-- GitHub Profile README -->
+# 👋 Hi, I'm Samuel Mabuka  
 
-<h1 align="center">Hi 👋, I'm Samuel Mabuka</h1>
-<h3 align="center">Back-End Systems'
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samuelosoro&label=Profile%20views&color=0e75b6&style=flat" alt="samuelosoro" />
-</p>
+### 🚀 About Me  
+I’m a **backend and data engineer** passionate about building scalable systems, automating data workflows, and developing efficient API-driven applications.  
+My work focuses on designing **data-driven backend architectures** that connect analytics, automation, and performance optimization.
 
 ---
 
-### About Me
-
-- I’m currently at ALX, where I’m upskilling my skills in backend development, to build building reliable backend systems, and automating data processing. My objective is to refresh my skills using DJANGO framework. 
-
----
-
-### Interests 
-
-- **RESTful APIs**
-- **Automation tools**
-- **Scalable systems** 
+### 💡 Interests  
+- RESTful API development  
+- Data pipeline orchestration and workflow automation  
+- Cloud-native and scalable backend systems  
 
 ---
 
-### Stack
-```bash
-Languages: Python
-Backend: Flask
-Databases: MySQL | PostgreSQL
-Tools: Git | Linux
-Others: REST APIs | CI/CD | Data engineering
+### 🧰 Tech Stack  
+**Languages:** Python  
+**Frameworks:** Django ·
+**Databases:** MySQL · PostgreSQL  
+**Tools:** Git · Linux · CI/CD  
+**Other Skills:** REST API Design · Data Engineering · Airflow · Spark · Kafka · AWS · Azure  
+
+---
+
+### 🎯 Current Focus  
+Building **data-driven backend systems** that integrate APIs, automation, and analytics for high-performance solutions.  
+
+⭐️ *"Code is only as good as the system that runs it — I build systems that scale."*
